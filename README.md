@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Magdy</h1>
 <h3 align="center">A passionate Software engineer</h3>
 
-- 🔭 I’m currently working @ **ODS**
+- 🔭 I’m currently working @ **Cegedim**
 
 - 🌱 I’m currently learning **AWS and best practices in web development**
 
