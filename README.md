@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **MahmoudMagdyMahmoud1@gmail.com**
 
-- You can find my resume here [https://drive.google.com/file/d/1rGikrgPmzGxCY6339rYC_gP5NIBmwFe1/view?usp=sharing](https://drive.google.com/file/d/1rGikrgPmzGxCY6339rYC_gP5NIBmwFe1/view?usp=sharing)
+- You can find my resume [here](https://drive.google.com/file/d/1rEFRvsBVbJ9aOvPnnLSqYQqgBnlBOppP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
